@@ -4,6 +4,8 @@
 
 The `SplitScreen` layout pattern is a flexible design solution for creating split-screen interfaces. It is ideal for scenarios where you need to display two panels side-by-side with adjustable widths. Built using `styled-components` and React, this pattern helps you create responsive and well-structured layouts with ease.
 
+## Component 
+Check split-screen.jsx component.
 
 ### `npm start`
 
